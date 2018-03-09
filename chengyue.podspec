@@ -9,7 +9,6 @@ Pod::Spec.new do |s|
   
   s.license      = 'MIT'
   s.author       = { "SweetHouse" => "360347343@qq.com" }
-  s.social_media_url = "http://twitter.com/yulingtianxia"
   s.source       = { :git => "https://github.com/SweetHouse/chengyue.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '6.0'
