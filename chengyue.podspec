@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '6.0'
   s.requires_arc = true
 
-  s.source_files = 'chengyue/**/*.{h,m}'
+  s.source_files = 'chengyue/*.{h,m}'
   #s.frameworks = 'Foundation', 'UIKit'
   #s.private_header_files = 'Classes/ios/private/*.h'
   
